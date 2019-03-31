@@ -2,9 +2,9 @@
 My first web site
 <body> 
      
-<nav>
-      <ul id="menu">
-        <li><a href="accueil(page 1).html">Accueil</a></li>
-      </ul>
-</nav>
+
+   
+ <li><a href="accueil(page 1).html">Site sur le VolleyBall</a></li>
+     
+
 </body>
